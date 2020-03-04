@@ -75,7 +75,7 @@ void __fastcall TForm1::VirtualStringTreeAddToSelection(TBaseVirtualTree *Sender
 		  PVirtualNode Node)
 
 	// Обработка события, выделяет информацию узла и выводит в поле Status
-    // Выводи скрытыую информацию о количестве посещений сайта
+	// Выводит скрытую информацию о количестве посещений сайта
 
 {
 	String count = ((VST*)VirtualStringTree->GetNodeData(Node))->count;
@@ -85,7 +85,7 @@ void __fastcall TForm1::VirtualStringTreeAddToSelection(TBaseVirtualTree *Sender
 void __fastcall TForm1::Button2Click(TObject *Sender)
 {
 	sqlite3* DB;    // Открываем соединеие
-	sqlite3_open("history.sqlite", &DB);    //  Открывыем БД в программном интерфейсе
+	sqlite3_open("history.sqlite", &DB);    //  Открываем БД в программном интерфейсе
 	const char *sqlRemoveAll = "delete from urls";  // Формируем запрос к БД
 	char *errorMsg; // Для корректного выполенения функции
 	int result = sqlite3_exec(DB, sqlRemoveAll, NULL, NULL, &errorMsg); // Функция для удаления или добавления объектов БД
@@ -120,3 +120,4 @@ void __fastcall TForm1::Button3Click(TObject *Sender)
 		Status->Caption = "Select the line!";
 }
 //---------------------------------------------------------------------------
+//test
