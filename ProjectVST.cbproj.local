@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.243,=C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,=C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,=D:\RADStudio\projects\VirtualStringTree\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj=D:\RADStudio\projects\VirtualStringTree\ProjectVST.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=D:\RADStudio\projects\VirtualStringTree\VirtualStringTree.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,=C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h=D:\RADStudio\projects\VirtualStringTree\VirtualStringTree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,=D:\RADStudio\projects\VirtualStringTree\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp=D:\RADStudio\projects\VirtualStringTree\VirtualStringTree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,=C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,C:\Users\Vladk\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h=D:\RADStudio\projects\VirtualStringTree\VST.h</Transaction>
+  </Transactions>
+</BorlandProject>
